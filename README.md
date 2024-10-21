@@ -28,4 +28,15 @@ The following models were implemented in this project:
 - ConvNext Version 2
 - EfficientFormer (Vision Transformer)
 
+## Contributors
 
+- [@HungNguyen](https://github.com/HungNguyenPSL)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- Special thanks to Professor [Tristan Cazenave](https://www.lamsade.dauphine.fr/~cazenave/index.php) for his guidance and support throughout this project.
+- Thanks to the [Katago Go](https://katagotools.org/) program for providing the self-play dataset that enabled the training of the model.
