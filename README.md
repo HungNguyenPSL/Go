@@ -18,3 +18,14 @@ The input data consists of 31 planes of size 19x19, representing various aspects
 The network is trained to predict two outputs:
 - **Policy**: A vector of size 361 (one value for each position on the board), with `1.0` indicating the move played and `0.0` for the other moves.
 - **Value**: A scalar indicating the winner, close to `1.0` if White wins and close to `0.0` if Black wins.
+
+### Approaches
+The following models were implemented in this project:
+- Convolutional Neural Network (CNN)
+- ResNet
+- MobileNet
+- ConvNext Version 1
+- ConvNext Version 2
+- EfficientFormer (Vision Transformer)
+
+
